@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Second-year CS student building full-stack web apps with Next.js, React, TypeScript, and Node.js.<br>I’ve shipped projects involving auth systems, vector search, and AI-driven workflows using tools like NextAuth, Pinecone, Inngest, LangChain, and LangGraph. I like turning messy ideas into working products, especially when it means solving hard problems or experimenting with new tech.<br><br>Currently exploring how agentic AI systems can power real-world product workflows. Always learning, building, and collaborating.<br><br>Tech: Next.js • React • TypeScript • Node.js • Express • PostgreSQL • MongoDB • Vector DBs • Inngest • LangChain • LangGraph • NextAuth • Docker • Git • Vercel
 
 
